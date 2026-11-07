@@ -1,0 +1,22 @@
+{
+  "laptop": {
+    "name": "Laptop",
+    "stock": 10,
+    "price": 800
+  },
+  "phone": {
+    "name": "Smartphone",
+    "stock": 15,
+    "price": 500
+  },
+  "headphones": {
+    "name": "Headphones",
+    "stock": 25,
+    "price": 50
+  },
+  "smartwatch": {
+    "name": "Smartwatch",
+    "stock": 3,
+    "price": 150
+  }
+}
